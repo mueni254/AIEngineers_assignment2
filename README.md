@@ -1,4 +1,4 @@
-##🚗 EV Charging Station Availability Predictor (Supervised Learning)
+## 🚗 EV Charging Station Availability Predictor (Supervised Learning)
 
 This project builds a simple machine learning model that recommends the best EV charging station based on:
 Charging slots availability,
