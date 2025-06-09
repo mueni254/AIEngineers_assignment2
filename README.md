@@ -40,5 +40,7 @@ Update user location or station list to test various scenarios
 
 
 ## Mobile App pitch deck
+https://drive.google.com/file/d/1oBwrcM2dT-c1Nfnuw9sECDlcp8iSk8r4/view?usp=sharing
+
 
 ## Mobile App blog
