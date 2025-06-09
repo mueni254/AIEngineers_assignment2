@@ -44,3 +44,6 @@ https://drive.google.com/file/d/1oBwrcM2dT-c1Nfnuw9sECDlcp8iSk8r4/view?usp=shari
 
 
 ## Mobile App blog
+
+https://docs.google.com/document/d/1wXmGecpDlElY0r-Ut15bZSBJk84JL4yTOt6cN4JK6uM/edit?usp=sharing
+
